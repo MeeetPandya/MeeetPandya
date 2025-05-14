@@ -17,25 +17,13 @@ I'm a passionate developer with a keen interest in decentralized technologies an
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=solidity,typescript,nodejs,express,cpp,git,github&perline=7)
+![Tech Stack](https://skillicons.dev/icons?i=solidity,javascript,python,typescript,nodejs,express,cpp,git,github&perline=7)
 
 ---
 
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MeeetPandya&layout=compact&theme=tokyonight&langs_count=6)
-
----
-
-## 📂 Featured Projects
-
-Here are some of the projects I've been working on:
-
-- [linkar](https://github.com/MeeetPandya/linkar): A TypeScript-based project focusing on [brief description].
-- [LearningSolidity](https://github.com/MeeetPandya/LearningSolidity): A repository dedicated to mastering Solidity for smart contract development.
-- [PingPong-CPP](https://github.com/MeeetPandya/PingPong-CPP): A C++ implementation of the classic Ping Pong game.
-
-Feel free to explore these repositories to see my work in action.
 
 ---
 
